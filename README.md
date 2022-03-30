@@ -6,7 +6,7 @@ This list contains my favorite frameworks and tools, with emotes that indicate m
 
 🤩 SwiftUI (Apple OS Applications)
 
-## Databases
+## Databases (Relational)
 
 😃 Microsoft SQL (Enterprise SQL database)
 
@@ -16,7 +16,15 @@ This list contains my favorite frameworks and tools, with emotes that indicate m
 
 😀 InfluxDB (Open-source time series database)
 
+## Databases (Document-based)
+
 😃 MongoDB (Enterprise NoSQL database)
+
+## Databses (Graph-based)
+
+😀 GraphQL (Popular graph-based database)
+
+😐 Neo4j (Graph-based database)
 
 ## Diagrams
 
