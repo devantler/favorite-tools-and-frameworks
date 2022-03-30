@@ -2,7 +2,7 @@
 
 ## Apple Operating Systems
 
-🤩 SwiftUI (Apple OS Applications)
+- 🤩 SwiftUI (Apple OS Applications)
 
 ## Diagrams
 
