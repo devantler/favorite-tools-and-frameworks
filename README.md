@@ -6,6 +6,14 @@ This list contains my favorite frameworks and tools, with emotes that indicate m
 
 🤩 SwiftUI (Apple OS Applications)
 
+## Databases
+
+😃 Microsoft SQL (Enterprise SQL database)
+
+😃 PostgreSQL / MariaDB (Open-source SQL database)
+
+😃InfluxDB (Open-source time series database)
+
 ## Diagrams
 
 🤩 PlantUML (Text-based UML)
