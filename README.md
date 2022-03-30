@@ -10,7 +10,7 @@
 
 😃 DrawIO (Drag-and-drop diagrams)
 
-## DSL
+## Domain Specific Languages (DSL)
 
 😃 Langium (successor to xText)
 
