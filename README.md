@@ -1,8 +1,9 @@
-# Favorite Frameworks
+# Favorite Tools and Frameworks
 
 ## General Purpose
 
 - dotnet (Cross-platform Applications)
+- Java (Cross-plaform Applications)
 
 ## Apple Operating Systems
 
