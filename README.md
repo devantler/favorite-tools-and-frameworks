@@ -2,7 +2,7 @@
 
 This list contains my favorite frameworks and tools, with emotes that indicate my likeness. Each framework or tool is described with a short description in parenthesis. The description is biased by my own opinions.
 
-## Apple Operating Systems
+## Apple Development
 
 🤩 SwiftUI (Apple OS Applications)
 
@@ -35,6 +35,8 @@ This list contains my favorite frameworks and tools, with emotes that indicate m
 🤩 PlantUML (Text-based UML)
 
 😃 DrawIO (Drag-and-drop diagrams)
+
+🫤 UPPAAL (Timed automata)
 
 ## Domain Specific Languages (DSL)
 
