@@ -10,9 +10,13 @@ This list contains my favorite frameworks and tools, with emotes that indicate m
 
 😃 Microsoft SQL (Enterprise SQL database)
 
+😃 SQLite (File-based SQL database)
+
 😃 PostgreSQL / MariaDB (Open-source SQL database)
 
-😃InfluxDB (Open-source time series database)
+😀 InfluxDB (Open-source time series database)
+
+😃 MongoDB (Enterprise NoSQL database)
 
 ## Diagrams
 
