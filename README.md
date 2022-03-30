@@ -1,6 +1,6 @@
 # Favorite Tools and Frameworks
 
-This list contains my favorite frameworks and tools, with emotes that indicate my likeness. Each framework or tool is describes with a short description in parenthesis. The description is biased by my own opinions.
+This list contains my favorite frameworks and tools, with emotes that indicate my likeness. Each framework or tool is described with a short description in parenthesis. The description is biased by my own opinions.
 
 ## Apple Operating Systems
 
