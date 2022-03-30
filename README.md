@@ -6,6 +6,10 @@ This list contains my favorite frameworks and tools, with emotes that indicate m
 
 🤩 SwiftUI (Apple OS Applications)
 
+## Component-based
+
+😐 OSGi (Java-based component framework)
+
 ## Databases (Relational)
 
 😃 Microsoft SQL (Enterprise SQL database)
@@ -34,7 +38,9 @@ This list contains my favorite frameworks and tools, with emotes that indicate m
 
 ## Domain Specific Languages (DSL)
 
-😃 Langium (successor to xText)
+😃 Langium (Create DSLs as VSCode Extensions)
+
+😐 Xtext (Create DSLs as Eclipse Plugins)
 
 ## General Purpose Languages (Suited for big systems)
 
