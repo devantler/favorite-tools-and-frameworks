@@ -7,6 +7,7 @@
 ## Diagrams
 
 🤩 PlantUML (Text-based UML)
+
 😃 DrawIO (Drag-and-drop diagrams)
 
 ## DSL
@@ -16,6 +17,7 @@
 ## General Purpose
 
 🤩 dotnet (Cross-platform Applications)
+
 🙂 Java (Cross-plaform Applications)
 
 ## Proxy
@@ -25,7 +27,9 @@
 ## Web Programming
 
 🤩 Blazor (C# Web Programming / Applications)
+
 😀 Vue (Typescript Web Programming)
+
 😐 Vapor (Swift Web Programming)
 
 
