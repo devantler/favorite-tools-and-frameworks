@@ -20,6 +20,10 @@
 
 🙂 Java (Cross-plaform Applications)
 
+## Scripting
+
+😐 Python (Cross-platform scripts/applications)
+
 ## Proxy
 
 😀 Proxyman (Great mac proxy app)
