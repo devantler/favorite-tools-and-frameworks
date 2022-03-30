@@ -1,5 +1,7 @@
 # Favorite Tools and Frameworks
 
+This list contains my favorite frameworks and tools, with emotes that indicate my likeness. Each framework or tool is describes with a short description in parenthesis. The description is biased by my own opinions.
+
 ## Apple Operating Systems
 
 🤩 SwiftUI (Apple OS Applications)
@@ -14,13 +16,13 @@
 
 😃 Langium (successor to xText)
 
-## General Purpose
+## General Purpose Languages (Suited for big systems)
 
 🤩 dotnet (Cross-platform Applications)
 
 🙂 Java (Cross-plaform Applications)
 
-## Scripting
+## General Purpose Languages (Suited for scripting)
 
 😐 Python (Cross-platform scripts/applications)
 
