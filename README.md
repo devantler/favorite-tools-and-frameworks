@@ -20,7 +20,7 @@ This list contains my favorite frameworks and tools, with emotes that indicate m
 
 😃 MongoDB (Enterprise NoSQL database)
 
-## Databses (Graph-based)
+## Databases (Graph-based)
 
 😀 GraphQL (Popular graph-based database)
 
