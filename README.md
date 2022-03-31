@@ -44,15 +44,17 @@ This list contains my favorite frameworks and tools, with emotes that indicate m
 
 😐 Xtext (Create DSLs as Eclipse Plugins)
 
-## General Purpose Languages (Suited for big systems)
+## General Purpose Languages
 
-🤩 dotnet (Cross-platform Applications)
+🤩 dotnet (Cross-platform)
 
-🙂 Java (Cross-plaform Applications)
+🤩 Swift (Semi-cross-platform)
 
-## General Purpose Languages (Suited for scripting)
+🤩 JavaScript/TypeScript (Web)
 
-😐 Python (Cross-platform scripts/applications)
+🙂 Java (Cross-plaform)
+
+😐 Python (Cross-platform)
 
 ## Proxy
 
