@@ -52,7 +52,7 @@ This list contains my favorite frameworks and tools, with emotes that indicate m
 
 🤩 Swift (Semi-cross-platform)
 
-🤩 JavaScript/TypeScript (Web)
+😃 JavaScript/TypeScript (Web)
 
 🙂 Java (Cross-plaform)
 
@@ -62,7 +62,7 @@ This list contains my favorite frameworks and tools, with emotes that indicate m
 
 😀 Proxyman (Great mac proxy app)
 
-## Web Programming
+## Web Frontend Frameworks
 
 🤩 Blazor (C# Web Programming / Applications)
 
