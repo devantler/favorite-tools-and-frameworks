@@ -6,7 +6,7 @@ This list contains my favorite frameworks and tools, with emotes that indicate m
 
 🤩 SwiftUI (Apple OS Applications)
 
-## Component-based
+## Component-based Development
 
 😐 OSGi (Java-based component framework)
 
