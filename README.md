@@ -10,7 +10,9 @@ This list contains my favorite frameworks and tools, with emotes that indicate m
 
 😐 OSGi (Java-based component framework)
 
-## Databases (Relational)
+## Databases
+
+### Relational
 
 😃 Microsoft SQL (Enterprise SQL database)
 
@@ -20,11 +22,11 @@ This list contains my favorite frameworks and tools, with emotes that indicate m
 
 😀 InfluxDB (Open-source time series database)
 
-## Databases (Document-based)
+### Document-based
 
 😃 MongoDB (Enterprise NoSQL database)
 
-## Databases (Graph-based)
+### Graph-based
 
 😀 GraphQL (Popular graph-based database)
 
